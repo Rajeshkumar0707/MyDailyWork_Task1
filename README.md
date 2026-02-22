@@ -20,3 +20,9 @@ Model achieved 100% accuracy on test data (likely overfitting).
 - Python
 - Pandas
 - Scikit-learn
+
+## Project Screenshots
+
+## Output Result
+![Output Screenshot 1](screenshot1.png)
+![Output Screenshot 2](screenshot2.png)
