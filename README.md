@@ -23,6 +23,7 @@ Model achieved 100% accuracy on test data (likely overfitting).
 
 ## Project Screenshots
 
-## Output Result
+## Output Result1
 ![Output Screenshot 1](screenshot1.png)
+## Output Result2
 ![Output Screenshot 2](screenshot2.png)
